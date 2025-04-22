@@ -1,7 +1,9 @@
 > [!NOTE]
-> This application will be developed in the future, wait it until it`s finished properly.
+> This application is planned to be developed in the future, wait until it`s finished properly. For now I haven't this project here.
 
 ## About project 🚙: 
+
+*With Especivia, everyone has a way to be special!*
 
 Especivia is a concept project of a startup, which focuses on creating a mobile app that brings a platform where private drivers of a variety of vehicles, alongside disabled people can reunite on the special app that allows connections between them, both in particular and B2B models, Opportunities and charity through this all-new innovative idea of a platform, that ensures security, quality and affordability!
 
@@ -19,7 +21,7 @@ This repository will be where the real project is located, if you want to see th
 #### Especivia App Content:
 
 + Source code
-+ App Builds
++ App Builds & Release
 
 ## Technologies ⚙️:
 
@@ -29,7 +31,7 @@ Here you can verify all of the skills used to develop *Especivia*. Listed below,
 
 + HTML5
 + CSS
-+ Javascript
++ Javascript or Typescript
 + React Native
 
 **Design**
