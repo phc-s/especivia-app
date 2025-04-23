@@ -1,5 +1,7 @@
+![image](https://github.com/user-attachments/assets/5cd0e64f-abf6-4045-878c-bc49ced88bc9)
+
 > [!NOTE]
-> This application is planned to be developed in the future, wait until it`s finished properly. For now I haven't this project here.
+> The practical application is planned to be developed in the future, wait until it`s finished properly. For now I haven't this project here.
 
 ## About project 🚙: 
 
@@ -17,6 +19,7 @@ This repository will be where the real project is located, if you want to see th
 
 + Especivia Main: (https://github.com/phc-s/especivia)
 + Especivia Mobile: (https://github.com/phc-s/especivia-app) **(This repository)**
++ Especivia Webpage: (https://github.com/phc-s/especivia-web)
 
 #### Especivia App Content:
 
@@ -25,7 +28,7 @@ This repository will be where the real project is located, if you want to see th
 
 ## Technologies ⚙️:
 
-Here you can verify all of the skills used to develop *Especivia*. Listed below, Programming languages and frameworks, Design and Tools / Environments. This section can be reviewed and is subject to changes.
+Here you can verify all of the skills used to develop *Especivia*. Listed below, Programming languages and frameworks, Design and Tools / Environments. This section can be reviewed and is *subject to changes*.
 
 **Programming**
 
