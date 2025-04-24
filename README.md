@@ -15,7 +15,7 @@ This app started as an integrated project, with initially the help of my teacher
 
 #### Information & Projects: 
 
-This repository will be where the real project is located, if you want to see the guidelines of design, project planning etc. Go to main Especivia repository. Further details about app source code, you can find below:
+This repository will be where the real Mobile App is located, if you want to see the guidelines of design, project planning etc. Go to main Especivia repository. Further details about app source code, you can find below:
 
 + Especivia Main: (https://github.com/phc-s/especivia)
 + Especivia Mobile: (https://github.com/phc-s/especivia-app) **(This repository)**
@@ -28,7 +28,7 @@ This repository will be where the real project is located, if you want to see th
 
 ## Technologies ⚙️:
 
-Here you can verify all of the skills used to develop *Especivia*. Listed below, Programming languages and frameworks, Design and Tools / Environments. This section can be reviewed and is *subject to changes*.
+Here you can verify all of the skills used to develop *Especivia Mobile App*. Listed below, Programming languages and frameworks, Design and Tools / Environments. This section can be reviewed and is *subject to changes*.
 
 **Programming**
 
