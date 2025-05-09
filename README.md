@@ -45,6 +45,7 @@ Here you can verify all of the skills used to develop *Especivia Mobile App*. Li
 
 **Tools**
 
++ Android Studio
 + Visual Studio Code
 + Node.JS
 + NPM
